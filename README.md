@@ -1,1 +1,2 @@
 # SwapFirstAndLastCharacters
+Bu program, kullanýcýdan bir metin ifadesi alýr, ilk ve son karakterlerin yerini deðiþtirir ve sonucu ekrana yazdýrýr. Eðer girdi boþ veya tek karakterli ise, deðiþiklik yapýlmadan girdi doðrudan geri döndürülür.
